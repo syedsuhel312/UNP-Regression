@@ -1,2 +1,2 @@
 # UNP-Regression
-This repository consists analysis of Bike Rental  Analysis using Machine Learning
+This repository consists analysis of Bike Rental  Analysis using Machine Learning.The National Association of City Transportation Officials (NACTO): NACTO is a nonprofit organization that advocates for sustainable transportation. They have a number of resources on bike-sharing, including a report on the economic benefits of bike-sharing programs.This dataset consists of the hourly count of rental bikes with 17 columns and 17379 instances (rows) between the years 2011 and 2012 in the Capital bike share system.
